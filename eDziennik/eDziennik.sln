@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eDziennik", "eDziennik\eDziennik.csproj", "{DC949979-6485-42F2-89CE-5CF2122AFB8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eJournal", "eDziennik\eJournal.csproj", "{DC949979-6485-42F2-89CE-5CF2122AFB8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eJournalData", "eJournalData\eJournalData.csproj", "{88D22E8C-1FDF-4B97-B38E-9D1DDC432D96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DC949979-6485-42F2-89CE-5CF2122AFB8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC949979-6485-42F2-89CE-5CF2122AFB8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC949979-6485-42F2-89CE-5CF2122AFB8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88D22E8C-1FDF-4B97-B38E-9D1DDC432D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D22E8C-1FDF-4B97-B38E-9D1DDC432D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D22E8C-1FDF-4B97-B38E-9D1DDC432D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D22E8C-1FDF-4B97-B38E-9D1DDC432D96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
